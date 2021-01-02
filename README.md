@@ -1,3 +1,8 @@
+> To Download, click on the file starting with "!!!Zerbie_". You'll be sent to a page focusing on that file.
+>
+> On the right side, there should be the download button.
+
+
 ### Description
 
 This Space Stage mod makes certain aspects of the stage much less grindy and tedious, and overall strives to make the stage more enjoyable in general. This doesn't add anything brand new into the game though, but it should better the vanilla experience. With that being said though, there are some new things here and there...
