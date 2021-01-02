@@ -1,6 +1,8 @@
 > To Download, click on the file starting with "!!!Zerbie_". You'll be sent to a page focusing on that file.
 >
 > On the right side, there should be the download button.
+>
+> When an update eventually comes, please refer to the releases section on the right
 
 
 ### Description
