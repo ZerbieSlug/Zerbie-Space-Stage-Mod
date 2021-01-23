@@ -1,4 +1,6 @@
 <mod displayName="Zerbie's Space Stage Modification (Beta)" unique="ZerbieSpaceMod" description="A mod that makes the stage more enjoyable to play through, adds some QOL features. Click on the GitHub Button for in-depth info on what this mod changes." installerSystemVersion="1.0.0.0" hasCustomInstaller="false" dllsBuild="2.5.20" isExperimental="true">
+<componentGroup unique="ZerbieSpaceMod" displayName="Filleridk">
+  		<component unique="ViRed" displayName="Rusted Red" description="A warrior's color." imagePlacement="After" game="GalacticAdventures" defaultChecked="true">!!!ZerbieGraphics_ViRed.package</component>
 </componentGroup>
 <component unique="togglableComponent" displayName="Togglable Component" description="This is a togglable component. It can be enabled or disabled by the user. It is enabled by default, as defined by the defaultChecked attribute." game="GalacticAdventures" defaultChecked="true">!!!!!!2018_DI_9_r_Beta2-2-9_UI-Audio_stable.package</component>
 <prerequisite game="GalacticAdventures">Component.package</prerequisite>
